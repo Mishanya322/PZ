@@ -1,2 +1,2 @@
-hah=10
-print(hah)
+a=10
+print(a)
